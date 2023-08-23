@@ -1,0 +1,25 @@
+body{
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+
+background-color: black;
+
+}
+
+.container{
+display: grid;
+grid-template-columns: repeat(2);
+}
+
+.image{
+width: 200px;
+display: flex;
+}
+button{
+width: 50px;
+color: red;
+}
+p{
+  color: white;
+}
